@@ -2,10 +2,10 @@
 This Installs Debain linux and Code-server Paste this Command for first time:
 first:
 
-sudo apt update && sudo apt install wget curl && wget https://raw.githubusercontent.com/storagedrive404outlook/ubuntu-server-vm/main/install-debian.sh && chmod 777 install.sh && ./install.sh
+apt update && apt install wget curl && wget https://raw.githubusercontent.com/storagedrive404outlook/ubuntu-server-vm/main/install-debian.sh && chmod 777 install.sh && ./install.sh
 then:
 
-sudo apt update && sudo apt install wget curl && wget https://raw.githubusercontent.com/storagedrive404outlook/ubuntu-server-vm/main/install.sh && chmod 777 install.sh && ./install.sh
+apt update && apt install wget curl && wget https://raw.githubusercontent.com/storagedrive404outlook/ubuntu-server-vm/main/install.sh && chmod 777 install.sh && ./install.sh
 
 For starting code-server paste this command:
 first paste type this:
