@@ -1,0 +1,1 @@
+apt-get install libatomic1 nano -y&& wget https://github.com/coder/code-server/releases/download/v3.12.0/code-server_3.12.0_armhf.deb && apt install ./code-server_3.12.0_armhf.deb -y && nano ~/.local/share/code-server
