@@ -1,5 +1,9 @@
 # code-server-termux
 This Installs Debain linux and Code-server Paste this Command for first time:
+first:
+
+sudo apt update && sudo apt install wget curl && wget https://raw.githubusercontent.com/storagedrive404outlook/ubuntu-server-vm/main/install-debian.sh && chmod 777 install.sh && ./install.sh
+then:
 
 sudo apt update && sudo apt install wget curl && wget https://raw.githubusercontent.com/storagedrive404outlook/ubuntu-server-vm/main/install.sh && chmod 777 install.sh && ./install.sh
 
