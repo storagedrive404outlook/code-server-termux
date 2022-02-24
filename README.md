@@ -5,4 +5,4 @@ sudo apt update && sudo apt install wget curl && wget https://raw.githubusercont
 
 For starting code-server paste this command:
 
-./start-debain.sh && code-server
+./start-debian.sh && code-server
